@@ -1,4 +1,4 @@
-# Study Project Python Seleniium WEbDriver with autotest
+# SeleniumWD Python unittest
  Study Project where i run 2 simple auto tests on google chrome using Python language and selenium and unittest libraries 
 
 The program runs following tests:  
